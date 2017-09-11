@@ -1,0 +1,1 @@
+C:\P\CameraApp\Windows-universal-samples\Samples\CameraStarterKit\cs\CameraStarterKit.csproj;x64

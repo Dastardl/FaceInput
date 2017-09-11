@@ -1,0 +1,1 @@
+C:\P\CameraApp\FaceInput\FaceInput.csproj;x86
